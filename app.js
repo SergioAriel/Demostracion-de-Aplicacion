@@ -1,3 +1,3 @@
 const test = () => {
-    return("Hel")
+    return("Hello Gi")
 }
